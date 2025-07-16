@@ -36,3 +36,5 @@ if __name__ == '__main__':
         run_debug(app)
     else:
         run_online(app)
+
+# git push https://$GITUSERNAME:$GITPWD@github.com/JHC000abc/fastapi-test.git main
